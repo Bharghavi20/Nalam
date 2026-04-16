@@ -38,10 +38,6 @@ The system helps manage hospital overcrowding by providing a platform where pati
 
 Android App ↔ Python Backend ↔ Supabase Database ↔ React Web Dashboard
 
-## 📸 Screenshots
-
-(Add your app and web screenshots here)
-
 ## ⚙️ How to Run
 
 ### 1. Clone the repository
